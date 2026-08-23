@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/kalanahapuarachchi309-cmd/Apex-Cms-Api-Gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/kalanahapuarachchi309-cmd/Apex-Cms-Config-Server-.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/kalanahapuarachchi309-cmd/Apex-Cms-Service-Registry.git
